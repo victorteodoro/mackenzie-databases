@@ -1,0 +1,9 @@
+name: dbs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupysql
+  - psycopg2-binary
+  - ipykernel
+  - nbconvert
